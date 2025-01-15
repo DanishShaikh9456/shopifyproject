@@ -1,2 +1,0 @@
-# shopifyproject
-task of internship 
